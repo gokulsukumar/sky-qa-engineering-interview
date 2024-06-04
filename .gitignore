@@ -11,3 +11,4 @@ target/test-classes/helpers/TestRunner.class
 target/test-classes/logger/Log.class
 target/test-classes/pages/Homepage.class
 LogFile.txt
+.idea/workspace.xml
