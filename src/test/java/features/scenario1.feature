@@ -1,6 +1,7 @@
 Feature: <Insert your feature>
 
-Scenario: <Insert your scenario>
+@TEST-1234 @E2ED-9090
+Scenario: Navigate to home page and verify packages
 
 #This is just a sample step to get started.
 Given the user can open "https://www.sky.de"
