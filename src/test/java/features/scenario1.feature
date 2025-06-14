@@ -1,4 +1,4 @@
-Feature: <Insert your feature>Add commentMore actions
+Feature: <Insert your feature>
 
 Scenario: <Insert your scenario>
 
