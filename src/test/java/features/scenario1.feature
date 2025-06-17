@@ -1,6 +1,7 @@
 Feature: <Insert your feature>
 
-Scenario: <Insert your scenario>
+@TEST-1234 @E2ED-7890
+Scenario: Package Selection with Dazn
 
 
 #This is just a sample step to get started.
