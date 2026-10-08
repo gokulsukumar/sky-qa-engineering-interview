@@ -1,6 +1,6 @@
 # sky-de-qa-engineer-interview
 
-This is a sample framework designed to evaluating the technical skills for an Automation Engineer position at Comcast-SkyGermany. 
+This is a sample framework designed to evaluate the technical skills for an Automation Engineer position at Comcast-SkyGermany. 
 The framework is developed on a Behavioural driven development style using selenium, cucumber-java, testng & maven.
 
 
